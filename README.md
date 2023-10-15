@@ -1,4 +1,4 @@
-# [Garden Time](https://garden-time.github.io/gardentime.github.io/) 🌷
+# Garden Time 🌷
 ### Authors:
 Bella Brannon, Emily Calkins, and Kelly Yu
 ### Description:
